@@ -1,7 +1,9 @@
-# coding: utf-8
+ 
 import os
 import sys
 import platform
+
+
 # 添加需要安装的扩展包名称进去
 os.system("pip install GitPython")
 os.system("python -m pip install --upgrade pip")
@@ -17,16 +19,12 @@ def read_file(file):
         :param file: .md or .txt format file
         :return: data
         """
-        with open(file,'rb') as f:
+        with open(file,'r',encoding = 'utf8') as f:
             lines = f.readlines()
         data = []
         for line in lines:            
             data.append(line)
         return data
-
-
-
-
 
 
 
@@ -39,5 +37,9 @@ remote.pull()
 
 git = repo.git
 git.add('.') 
-git.commit('-m', data[0])
+
+logStr = ""
+for log in data:
+    logStr = logStr + log
+git.commit('-m', logStr)
 
