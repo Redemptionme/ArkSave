@@ -6,7 +6,7 @@ import platform
 
 # 添加需要安装的扩展包名称进去
 os.system("pip install GitPython")
-os.system("python -m pip install --upgrade pip")
+#os.system("python -m pip install --upgrade pip")
 
 
 import git
