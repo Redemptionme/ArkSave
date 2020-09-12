@@ -42,4 +42,5 @@ logStr = ""
 for log in data:
     logStr = logStr + log
 git.commit('-m', logStr)
+git.push()
 
