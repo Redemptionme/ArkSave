@@ -13,5 +13,9 @@ https://www.119you.com/fzscjhgjb/yxgl/852242.shtml
 
 http://news.4399.com/fzscjh/konglong/
 
+训化公式
+
+http://www.teandy.com/compute/j0040.html
+
 
 
