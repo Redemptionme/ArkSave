@@ -71,6 +71,23 @@ https://www.bilibili.com/video/av87669016/?p=2
 
 ## 孤岛西
 
+![image-20200915174840094](https://i.loli.net/2020/09/15/plah9K3HZqOngos.png)
+
+![image-20200915175004516](https://i.loli.net/2020/09/15/ihIARu2mpbPHLva.png)
+
+
+
+![image-20200915174907624](https://i.loli.net/2020/09/15/DyPOIdpuxRbWeqz.png)
+
+
+
+## 孤岛北
+
+![image-20200915175022907](https://i.loli.net/2020/09/15/rti5SDFxuzTvPqm.png)
+
+
+
+![image-20200915175048625](https://i.loli.net/2020/09/15/dk4EMYRrhTDLOze.png)
 
 
 
@@ -78,6 +95,6 @@ https://www.bilibili.com/video/av87669016/?p=2
 
 
 
+# 黑曜石
 
-
-
+![image-20200917131055305](https://i.loli.net/2020/09/17/2NZYqBnaQzeT4SD.png)
