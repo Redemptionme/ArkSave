@@ -98,3 +98,7 @@ https://www.bilibili.com/video/av87669016/?p=2
 # 黑曜石
 
 ![image-20200917131055305](https://i.loli.net/2020/09/17/2NZYqBnaQzeT4SD.png)
+
+# 神器位置
+
+https://www.gamersky.com/handbook/201707/931409.shtml
