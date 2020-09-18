@@ -102,3 +102,7 @@ https://www.bilibili.com/video/av87669016/?p=2
 # 神器位置
 
 https://www.gamersky.com/handbook/201707/931409.shtml
+
+
+
+大地赖，镰刀龙 54 34
