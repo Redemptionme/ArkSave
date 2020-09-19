@@ -105,4 +105,10 @@ https://www.gamersky.com/handbook/201707/931409.shtml
 
 
 
-大地赖，镰刀龙 54 34
+# 大地赖，镰刀龙 54 34
+
+
+
+# 河狸窝
+
+![image-20200919132307981](C:/Users/Redem/AppData/Roaming/Typora/typora-user-images/image-20200919132307981.png)
