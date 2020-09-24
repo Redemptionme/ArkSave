@@ -48,9 +48,9 @@ import os
 main = "D:\\Games\\Epic Games\\ARKSurvivalEvolved\\ShooterGame\\Binaries\\Win64\\ShooterGame.exe"
 if os.path.exists(main):  
     print("开始运行游戏")
-#    rc,out= subprocess.getstatusoutput(main)  
-    #print (rc)    
-    #print (out)
+    rc,out= subprocess.getstatusoutput(main)  
+    print (rc)    
+    print (out)
     
 
 # 写入 JSON 数据
