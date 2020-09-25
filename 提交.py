@@ -35,10 +35,7 @@ repo = Repo(curFileList[0])
 remote = repo.remote()
 remote.pull()
 
-git = repo.git
 
-
-git.add('.') 
 logStr = ""
 
 import time
@@ -83,6 +80,9 @@ logStr = "本次游戏时间 " + data["本次游戏时间"] + " 总游戏时间 
 
 for log in mddata:
     logStr = logStr + log
+    
+git = repo.git
+git.add('.') 
 git.commit('-m', logStr)
 git.push()
 
