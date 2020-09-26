@@ -9,6 +9,10 @@ https://www.bilibili.com/video/BV1Vt411u7Px?p=10
 
 https://www.119you.com/fzscjhgjb/yxgl/852242.shtml
 
+# 资源大全
+
+https://sc.toolnb.com/tools/ark-code.html
+
 # 生物大全
 
 http://news.4399.com/fzscjh/konglong/
